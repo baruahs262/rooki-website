@@ -46,16 +46,10 @@ body {
     align-items: center;
 }
 
-.nav-brand a {
-    display: inline-block;
-    text-decoration: none;
-}
-
 .nav-brand .logo {
     height: 60px;
     width: auto;
     max-width: 200px;
-    display: block;
 }
 
 .nav-menu {
